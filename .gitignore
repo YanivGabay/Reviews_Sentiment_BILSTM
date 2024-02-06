@@ -5,6 +5,7 @@ __pycache__/
 
 #Csv files are local
 *.csv
+*.txt
 
 # C extensions
 *.so
